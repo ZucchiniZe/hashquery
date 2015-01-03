@@ -1,0 +1,13 @@
+{
+  "name": "hashquery",
+  "version": "1.0.0",
+  "description": "hash query for the web",
+  "main": "lib/hash.js",
+  "author": "ZucchiniZe",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-uglify": "^1.0.2"
+  }
+}
